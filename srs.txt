@@ -2,3 +2,6 @@ sign in
 create customer 
 withdraw
 hello world
+
+logout
+mini statement
